@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning **Web Development**
 - 🥅 2022 Goals: Learn more about **web3**
 - 💻 Most used line of code `git status`
+- 📫 How to reach me: [`LinkedIn`](https://www.linkedin.com/in/crescent-deb-nath-partha/) || [`Email`](mailto:crescentpartha406@gmail.com)
 - ⚡ Fun fact: I love to **play guitar** and **listening music**
 
 <!-- ---------------------------------------------------Connect with me------------------------------------------------- -->
