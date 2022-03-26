@@ -61,7 +61,7 @@
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Crescent Partha's&nbsp;Activity&nbsp;Graph</b></summary>
 
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=crescentpartha&theme=react-dark)](https://github.com/crescentpartha/github-readme-activity-graph)
+  [![Crescent Partha's github activity graph](https://activity-graph.herokuapp.com/graph?username=crescentpartha&theme=react-dark)](https://github.com/crescentpartha/github-readme-activity-graph)
 </details>
 
 
