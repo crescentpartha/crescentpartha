@@ -7,7 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crescentpartha&label=Profile%20views&color=0e75b6&style=flat" alt="crescentpartha" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development** (MERN Stack)
+- 👯 I’m looking to collaborate on __open source projects__
 - 🥅 2022 Goals: Learn more about **web3**
 - 💻 Most used line of code `git status`
 - 📫 How to reach me: [`LinkedIn`](https://www.linkedin.com/in/crescent-deb-nath-partha/) || [`Email`](mailto:crescentpartha406@gmail.com)
