@@ -32,12 +32,12 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crescentpartha" alt="crescentpartha" /></a> </p> -->
 
 
-- 🌱 I’m currently learning **Web Development** (___MERN Stack___)
+- 🌱 I’m currently learning **Web Development**
 - 👯 I’m looking to collaborate on ___open source projects___
-- 🥅 2022 Goals: Learn more about ___web3___
+- 🥅 2022 Goals: Learn more about ___MERN Stack___
 - 💻 Most used line of code `git status`
 - 📫 How to reach me: [`LinkedIn`](https://www.linkedin.com/in/crescent-deb-nath-partha/) || [`Email`](mailto:crescentpartha406@gmail.com)
-- ⚡ Fun fact: I love to ___play guitar___ and ___listening music___
+- ⚡ Fun fact: I love ___playing guitar___, ___singing___, and ___listening to music___
 
 <!-- ---------------------------------------------------Connect with me------------------------------------------------- -->
 ---
