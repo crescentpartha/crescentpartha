@@ -74,6 +74,13 @@
 
 ---
 
+<!-- --------------------------------------------------GitHub Profile Metrics---------------------------------------------------- -->
+
+<details>
+  <summary><b>🛠️&nbsp;&nbsp;GitHub Profile Metrics</b></summary>
+    <p align="center"> <a href="https://metrics.lecoq.io/crescentpartha"><img src="https://metrics.lecoq.io/crescentpartha" alt="crescentpartha" /></a> </p>
+</details>
+
 <!-- --------------------------------------------------GitHub Profile Trophy---------------------------------------------------- -->
 
 <details>
@@ -135,5 +142,4 @@
         </p>
     </details>
 </details> -->
-
 
