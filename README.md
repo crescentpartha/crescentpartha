@@ -41,7 +41,9 @@
 
 <!-- ---------------------------------------------------Connect with me------------------------------------------------- -->
 ---
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with Me:
+  <img width="30px" height="30px" src="./images/Handshake.gif" />
+</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/crescent-deb-nath-partha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="crescentpartha" height="30" width="40" /></a>
     <a href="https://www.facebook.com/crescentdebnath.partha.3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="crescentpartha" height="30" width="40" /></a>
