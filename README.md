@@ -32,7 +32,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crescentpartha" alt="crescentpartha" /></a> </p> -->
 
 
-- 🌱 I’m currently learning ___Web Development___
+- 🌱 I’m currently learning **Web Development**
 - 👯 I’m looking to collaborate on ___open source projects___
 - 🥅 2022 Goals: Learn more about ___MERN Stack___
 - 💻 Most used line of code `git status`
