@@ -126,10 +126,16 @@
 
 <!-- ------------------------------------------------------Activity Graph----------------------------------------------------- -->
 
-<details>
+<!-- <details>
   <summary><b>🛠️&nbsp;&nbsp;Crescent Partha's&nbsp;Activity&nbsp;Graph</b></summary>
 
   [![Crescent Partha's github activity graph](https://activity-graph.herokuapp.com/graph?username=crescentpartha&theme=react-dark)](https://github.com/crescentpartha/github-readme-activity-graph)
+</details> -->
+
+<details>
+  <summary><b>🛠️&nbsp;&nbsp;GitHub&nbsp;Activity&nbsp;Graph</b></summary>
+
+  [![Crescent Partha's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=crescentpartha&theme=react-dark)](https://github.com/crescentpartha/github-readme-activity-graph)
 </details>
 
 <!-- --- -->
